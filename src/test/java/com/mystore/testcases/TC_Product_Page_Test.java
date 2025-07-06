@@ -91,9 +91,9 @@ public class TC_Product_Page_Test extends BaseClass {
 		ca.enteraddress("E-10/b , India");
 		ca.entercity("Delhi");
 		ca.enterState("Alaska");
-		ca.enterPostalCode("00000");
-		ca.enterphonenumber("828782");
-		ca.entermobilenumber("8287822");
+		ca.enterPostalCode("110092");
+		ca.enterphonenumber("8287821123");
+		ca.entermobilenumber("8287822421");
 		ca.saveaddress();
 		ProceedAddress pa = new ProceedAddress(driver);
 		pa.clickonproceedcheckout();

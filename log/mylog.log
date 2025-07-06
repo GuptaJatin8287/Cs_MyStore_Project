@@ -604,3 +604,14 @@
 [INFO ] 2025-07-06 16:39:13.096 [main] mystorev1 - Click on sign in
 [INFO ] 2025-07-06 16:39:13.549 [main] mystorev1 - Enter enter and click on create account
 [INFO ] 2025-07-06 16:39:13.556 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-06 17:49:45.468 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 17:49:46.683 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 17:49:46.899 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-06 17:49:46.899 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-06 17:51:31.600 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 17:51:31.616 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-06 17:51:33.268 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 17:51:33.271 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-06 17:51:33.393 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-06 17:51:33.487 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-06 17:51:34.618 [main] mystorev1 - Login Successfull
