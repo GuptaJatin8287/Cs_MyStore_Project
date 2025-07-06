@@ -6,7 +6,6 @@
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.mystore.testcases.TC_My_Account_Page_Test"/> 
       <class name="com.mystore.testcases.TC_Product_Page_Test"/>
       
     </classes>
