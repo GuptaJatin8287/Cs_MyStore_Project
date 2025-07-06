@@ -1,0 +1,606 @@
+[INFO ] 2024-06-06 22:59:23.774 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 22:59:25.324 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 22:59:25.328 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-06 22:59:25.548 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-06 22:59:25.700 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-06 22:59:27.185 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-06 22:59:27.185 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 22:59:27.307 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-06 22:59:27.317 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-06 22:59:35.817 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 22:59:37.186 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 22:59:37.451 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 23:04:26.192 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 23:04:28.236 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 23:04:28.246 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-06 23:04:28.587 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-06 23:04:28.866 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-06 23:04:30.566 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-06 23:04:30.566 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 23:04:30.720 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-06 23:04:30.731 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-06 23:11:33.119 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 23:11:35.150 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 23:11:35.162 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-06 23:11:35.317 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-06 23:11:35.440 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-06 23:11:36.680 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-06 23:11:36.680 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 23:11:36.757 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-06 23:11:36.764 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-06 23:18:44.702 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 23:18:46.256 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 23:18:46.261 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-06 23:18:46.455 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-06 23:18:46.601 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-06 23:18:47.921 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-06 23:18:47.922 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 23:23:03.162 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 23:23:05.018 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 23:23:05.025 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-06 23:23:05.297 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-06 23:23:05.446 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-06 23:23:06.891 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-06 23:23:06.891 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 23:29:09.227 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 23:29:11.086 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 23:29:11.117 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-06 23:29:11.251 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-06 23:29:11.416 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-06 23:29:12.887 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-06 23:29:12.887 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 23:43:09.478 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 23:43:11.051 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 23:43:11.054 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-06 23:43:11.248 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-06 23:43:11.392 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-06 23:43:12.731 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-06 23:43:12.731 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 23:51:03.584 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 23:51:05.314 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 23:51:05.320 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-06 23:51:05.667 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-06 23:51:05.943 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-06 23:51:07.729 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-06 23:51:07.730 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 23:51:07.842 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-06 23:51:07.849 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-06 23:51:20.137 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 23:51:21.777 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 23:51:21.782 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-06 23:51:21.974 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-06 23:51:22.143 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-06 23:51:23.893 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-06 23:51:23.894 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 23:51:23.980 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-06 23:51:23.985 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-06 23:56:36.612 [main] mystorev1 - Url Open
+[INFO ] 2024-06-06 23:56:38.309 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-06 23:56:38.316 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-06 23:56:38.691 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-06 23:56:38.900 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-06 23:56:40.907 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-06 23:56:40.907 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-06 23:56:40.942 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-06 23:56:40.955 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-07 01:05:25.391 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 01:05:27.264 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 01:05:27.264 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 01:05:27.471 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 01:05:27.663 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 01:05:29.434 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 01:05:29.434 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-07 01:05:29.488 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-07 01:05:29.488 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-07 01:05:40.478 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 01:05:42.356 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 01:05:42.357 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 01:05:42.562 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 01:05:42.711 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 01:05:43.556 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 01:05:43.556 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-07 15:05:28.874 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 15:05:30.098 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 15:05:30.102 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 15:05:30.248 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 15:05:30.345 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 15:05:31.391 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 15:05:31.392 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-07 15:05:31.427 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-07 15:05:31.429 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-07 15:05:38.078 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 15:05:39.288 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 15:05:39.288 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 15:05:39.424 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 15:05:39.519 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 15:05:40.080 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 15:05:40.080 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-07 15:09:58.085 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 15:09:59.143 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 15:09:59.145 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 15:09:59.285 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 15:09:59.381 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 15:10:00.474 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 15:10:00.474 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-07 15:10:00.508 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-07 15:10:00.510 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-07 15:10:11.456 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 15:10:12.603 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 15:10:12.604 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 15:10:12.740 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 15:10:12.848 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 15:10:14.060 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 15:10:14.060 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-07 15:13:03.698 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 15:13:04.951 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 15:13:04.953 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 15:13:05.102 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 15:13:05.199 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 15:13:06.248 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 15:13:06.248 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-07 15:13:06.281 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-07 15:13:06.283 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-07 15:13:14.426 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 15:13:15.582 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 15:13:15.582 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 15:13:15.713 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 15:13:15.806 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 15:13:16.815 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 15:13:16.816 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-07 16:56:14.073 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 16:56:14.138 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 16:56:15.933 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 16:56:15.940 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 16:56:16.315 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 16:56:16.581 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 16:56:18.432 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 16:56:20.483 [main] mystorev1 - Serach Result Test Case Passed
+[INFO ] 2024-06-07 17:47:24.470 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 17:47:24.510 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 17:47:26.099 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 17:47:26.105 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 17:47:26.331 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 17:47:26.473 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 17:47:27.850 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 17:48:34.549 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 17:48:34.598 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 17:48:35.917 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 17:48:35.921 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 17:48:36.110 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 17:48:36.252 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 17:48:37.460 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 17:55:03.744 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 17:55:03.802 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 17:55:05.645 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 17:55:05.655 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 17:55:06.059 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 17:55:06.196 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 17:55:07.584 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 18:01:35.996 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 18:01:36.058 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 18:01:37.392 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 18:01:37.398 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 18:01:37.648 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 18:01:37.789 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 18:01:38.882 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 18:02:50.218 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 18:02:50.251 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 18:02:51.988 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 18:02:52.001 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 18:02:52.349 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 18:02:52.554 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 18:02:53.705 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 18:05:34.086 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 18:05:34.143 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 18:05:35.610 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 18:05:35.610 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 18:05:35.918 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 18:05:36.151 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 18:05:37.628 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 18:07:00.422 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 18:07:00.486 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 18:07:01.936 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 18:07:01.947 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 18:07:02.227 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 18:07:02.385 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 18:07:03.870 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 18:09:05.261 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 18:09:05.292 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 18:09:06.604 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 18:09:06.608 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 18:09:06.865 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 18:09:07.070 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 18:09:08.408 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 18:11:51.531 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 18:11:51.589 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 18:11:53.013 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 18:11:53.015 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 18:11:53.544 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 18:11:53.801 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 18:11:54.991 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 18:17:10.684 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 18:17:10.741 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 18:17:12.215 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 18:17:12.223 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 18:17:12.643 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 18:17:12.781 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 18:17:14.068 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 18:31:18.268 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 18:31:18.333 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 18:31:19.837 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 18:31:19.846 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 18:31:20.101 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 18:31:20.245 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 18:31:21.593 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 19:08:58.130 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 19:08:58.143 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 19:08:59.146 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 19:08:59.149 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 19:08:59.296 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 19:08:59.387 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 19:09:00.374 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 19:10:14.329 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 19:10:14.340 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 19:10:15.648 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 19:10:15.650 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 19:10:15.785 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 19:10:15.876 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 19:10:16.799 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 19:10:51.570 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 19:10:51.582 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 19:10:52.707 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 19:10:52.710 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 19:10:52.805 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 19:10:52.888 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 19:10:54.134 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 19:14:18.854 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 19:14:18.866 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 19:14:19.803 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 19:14:19.808 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 19:14:19.943 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 19:14:20.037 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 19:14:20.994 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 19:24:44.097 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 19:24:44.111 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 19:24:45.087 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 19:24:45.092 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 19:24:45.235 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 19:24:45.335 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 19:24:46.373 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 19:28:57.047 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 19:28:57.060 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 19:28:58.047 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 19:28:58.051 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 19:28:58.208 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 19:28:58.309 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 19:28:59.267 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 20:54:11.463 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 20:54:11.512 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 20:54:13.171 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 20:54:13.178 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 20:54:13.472 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 20:54:13.672 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 20:54:15.028 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 21:18:47.796 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 21:18:47.810 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 21:18:48.949 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 21:18:48.954 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 21:18:49.155 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 21:18:49.303 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 21:18:50.360 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 21:21:05.136 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 21:21:05.153 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 21:21:06.853 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 21:21:06.856 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 21:21:07.033 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 21:21:07.180 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 21:21:08.527 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 21:27:42.984 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 21:27:43.002 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 21:27:44.174 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 21:27:44.176 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 21:27:44.358 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 21:27:44.485 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 21:27:45.713 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 21:28:47.606 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 21:28:47.628 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 21:28:48.837 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 21:28:48.845 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 21:28:49.028 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 21:28:49.173 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 21:28:50.206 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 21:31:44.645 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 21:31:44.670 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 21:31:45.959 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 21:31:45.959 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 21:31:46.161 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 21:31:46.303 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 21:31:47.474 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 21:37:08.481 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 21:37:08.502 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 21:37:09.876 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 21:37:09.883 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 21:37:10.136 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 21:37:10.259 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 21:37:11.381 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 21:38:56.091 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 21:38:56.114 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 21:38:57.270 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 21:38:57.276 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 21:38:57.450 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 21:38:57.583 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 21:38:58.687 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 21:57:57.129 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 21:57:57.149 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 21:57:58.263 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 21:57:58.268 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 21:57:58.457 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 21:57:58.595 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 21:57:59.727 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 22:01:19.792 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 22:01:19.818 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 22:01:20.865 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 22:01:20.868 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 22:01:21.111 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 22:01:21.279 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 22:01:22.499 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 22:02:35.470 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 22:02:35.502 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 22:02:37.033 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 22:02:37.037 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 22:02:37.268 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 22:02:37.408 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 22:02:38.611 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 22:03:20.173 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 22:03:20.194 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 22:03:21.363 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 22:03:21.368 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 22:03:21.597 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 22:03:21.729 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 22:03:22.798 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 22:18:02.909 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 22:18:02.926 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 22:18:04.680 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 22:18:04.688 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 22:18:04.909 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 22:18:05.043 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 22:18:06.779 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 22:22:21.166 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 22:22:21.186 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 22:22:22.410 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 22:22:22.416 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 22:22:22.660 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 22:22:22.801 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 22:22:23.876 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 22:24:59.164 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 22:24:59.189 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 22:25:00.286 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 22:25:00.286 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 22:25:00.495 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 22:25:00.631 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 22:25:01.580 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 22:27:19.234 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 22:27:19.266 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 22:27:20.543 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 22:27:20.543 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 22:27:20.744 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 22:27:20.891 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 22:27:21.993 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-07 22:31:35.257 [main] mystorev1 - Url Open
+[INFO ] 2024-06-07 22:31:35.278 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-07 22:31:41.054 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-07 22:31:41.058 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-07 22:31:41.230 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-07 22:31:41.354 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-07 22:31:42.511 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-08 01:09:03.093 [main] mystorev1 - Url Open
+[INFO ] 2024-06-08 01:09:03.119 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-08 01:09:04.288 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-08 01:09:04.295 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-08 01:09:04.562 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-08 01:09:04.771 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-08 01:09:06.053 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-08 01:09:56.645 [main] mystorev1 - Url Open
+[INFO ] 2024-06-08 01:09:56.661 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-08 01:09:57.817 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-08 01:09:57.822 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-08 01:09:58.082 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-08 01:09:58.244 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-08 01:09:59.321 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-08 01:16:40.518 [main] mystorev1 - Url Open
+[INFO ] 2024-06-08 01:16:40.549 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-08 01:16:41.997 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-08 01:16:41.997 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-08 01:16:42.230 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-08 01:16:42.429 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-08 01:16:43.667 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-08 18:30:15.529 [main] mystorev1 - Url Open
+[INFO ] 2024-06-08 18:30:15.585 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-08 18:30:17.437 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-08 18:30:17.446 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-08 18:30:17.882 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-08 18:30:18.014 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-08 18:30:19.312 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-08 18:30:57.796 [main] mystorev1 - Url Open
+[INFO ] 2024-06-08 18:30:59.119 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-08 18:30:59.123 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-08 18:30:59.536 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-08 18:30:59.689 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-08 18:31:00.952 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-08 18:31:00.952 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-08 18:31:01.061 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-08 18:31:01.061 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-08 20:18:26.389 [main] mystorev1 - Url Open
+[INFO ] 2024-06-08 20:18:26.395 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-08 20:18:27.494 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-08 20:18:27.497 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-08 20:18:27.605 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-08 20:18:27.689 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-08 20:18:28.870 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-08 20:19:03.168 [main] mystorev1 - Url Open
+[INFO ] 2024-06-08 20:19:04.699 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-08 20:19:04.699 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-08 20:19:04.796 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-08 20:19:04.901 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-08 20:19:06.486 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-08 20:19:06.487 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-08 20:19:06.523 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-08 20:19:06.526 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-08 20:19:51.873 [main] mystorev1 - Url Open
+[INFO ] 2024-06-08 20:19:51.878 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2024-06-08 20:19:52.896 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-08 20:19:52.898 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-08 20:19:53.047 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-08 20:19:53.152 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-08 20:19:54.061 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-08 20:20:24.909 [main] mystorev1 - Url Open
+[INFO ] 2024-06-08 20:20:25.906 [main] mystorev1 - Click on sign in
+[INFO ] 2024-06-08 20:20:25.907 [main] mystorev1 - Entered Email Id
+[INFO ] 2024-06-08 20:20:26.020 [main] mystorev1 - Entered Password
+[INFO ] 2024-06-08 20:20:26.096 [main] mystorev1 - Click on Login Button
+[INFO ] 2024-06-08 20:20:27.124 [main] mystorev1 - Login Successfull
+[INFO ] 2024-06-08 20:20:27.124 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2024-06-08 20:20:27.155 [main] mystorev1 - Verify login : Passed
+[INFO ] 2024-06-08 20:20:27.158 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2024-06-10 17:37:49.220 [main] mystorev1 - Url Open
+[INFO ] 2024-06-10 17:37:52.905 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 15:16:53.968 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 15:16:56.072 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-05 15:16:56.363 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-05 15:18:09.516 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 15:18:11.579 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-05 15:18:11.969 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-05 15:18:11.976 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-05 15:18:21.689 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2025-07-05 15:18:21.826 [main] mystorev1 - Register Account successfully
+[INFO ] 2025-07-05 15:20:26.668 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 15:20:28.765 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-05 15:20:29.284 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-05 15:20:29.289 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-05 15:20:56.992 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 15:20:58.857 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-05 15:20:58.859 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-05 15:20:59.282 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-05 15:20:59.404 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-05 15:21:01.189 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-05 15:21:01.189 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2025-07-05 15:21:01.324 [main] mystorev1 - Verify login : Passed
+[INFO ] 2025-07-05 15:21:01.333 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2025-07-05 18:28:31.648 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 18:28:32.836 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-05 18:28:32.839 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-05 18:28:32.959 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-05 18:28:33.049 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-05 18:28:34.206 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-05 18:28:34.208 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2025-07-05 18:28:34.247 [main] mystorev1 - Verify login : Passed
+[INFO ] 2025-07-05 18:28:34.249 [main] mystorev1 - Expected and actual username are match
+[INFO ] 2025-07-05 18:34:52.065 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 18:34:53.252 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-05 18:34:53.254 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-05 18:34:53.375 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-05 18:34:53.453 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-05 18:34:53.533 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-05 18:34:53.533 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2025-07-05 18:38:29.251 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 18:38:30.636 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-05 18:38:30.639 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-05 18:38:30.733 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-05 18:38:30.825 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-05 18:38:30.913 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-05 18:38:30.913 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2025-07-05 18:41:56.776 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 18:47:49.292 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 18:47:50.562 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-05 18:47:50.565 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-05 18:47:50.682 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-05 18:47:50.771 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-05 18:47:50.848 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-05 18:47:50.849 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2025-07-05 18:50:20.780 [main] mystorev1 - Url Open
+[INFO ] 2025-07-05 18:50:22.214 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-05 18:50:22.217 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-05 18:50:22.333 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-05 18:50:22.420 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-05 18:50:22.496 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-05 18:50:22.496 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2025-07-06 01:27:03.164 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 01:27:03.205 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-06 01:27:04.777 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 01:27:04.788 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-06 01:27:05.150 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-06 01:27:05.389 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-06 01:27:06.916 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-06 01:28:21.113 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 01:28:21.173 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-06 01:28:22.758 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 01:28:22.763 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-06 01:28:22.941 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-06 01:28:23.122 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-06 01:28:24.445 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-06 16:18:31.629 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:18:31.665 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-06 16:18:33.418 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:18:33.425 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-06 16:18:33.660 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-06 16:18:33.876 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-06 16:18:35.408 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-06 16:21:59.074 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:21:59.086 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-06 16:22:00.678 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:22:00.683 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-06 16:22:00.946 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-06 16:22:01.371 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-06 16:22:02.786 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-06 16:24:36.936 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:24:36.970 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-06 16:24:38.435 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:24:38.441 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-06 16:24:38.612 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-06 16:24:38.732 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-06 16:24:40.064 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-06 16:28:03.616 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:28:06.001 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:28:07.198 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-06 16:28:07.212 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-06 16:29:01.972 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:29:03.999 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:29:04.346 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-06 16:29:04.349 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-06 16:29:31.949 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:29:31.955 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-06 16:29:34.062 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:29:34.064 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-06 16:29:34.271 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-06 16:29:34.402 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-06 16:29:35.894 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-06 16:32:23.278 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:32:25.099 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:32:25.459 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-06 16:32:25.464 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-06 16:32:44.722 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:32:44.736 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-06 16:32:46.636 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:32:46.638 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-06 16:32:47.050 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-06 16:32:47.227 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-06 16:32:48.785 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-06 16:36:43.473 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:36:45.275 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:36:45.821 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-06 16:36:45.829 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-06 16:37:01.761 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:37:01.765 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-06 16:37:03.551 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:37:03.555 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-06 16:37:03.844 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-06 16:37:03.965 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-06 16:37:05.356 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-06 16:37:06.899 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:37:08.337 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:37:08.664 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-06 16:37:08.666 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-06 16:39:11.643 [main] mystorev1 - Url Open
+[INFO ] 2025-07-06 16:39:13.096 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-06 16:39:13.549 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-06 16:39:13.556 [main] mystorev1 - Enter user details for registration
