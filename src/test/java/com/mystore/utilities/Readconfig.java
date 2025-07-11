@@ -8,7 +8,7 @@ import javax.management.RuntimeErrorException;
 
 public class Readconfig {
 	Properties property;
-	String path="D:\\Java_Automation_Project\\mystorev1\\Configuration\\config.properties";
+	String path="C:\\Users\\asus\\git\\repository\\flash\\mystorev1\\Configuration\\config.properties";
 	
 	//Constructor
 	public Readconfig(){

@@ -615,3 +615,35 @@
 [INFO ] 2025-07-06 17:51:33.393 [main] mystorev1 - Entered Password
 [INFO ] 2025-07-06 17:51:33.487 [main] mystorev1 - Click on Login Button
 [INFO ] 2025-07-06 17:51:34.618 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-11 19:03:18.341 [main] mystorev1 - Url Open
+[INFO ] 2025-07-11 19:03:18.359 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-11 19:03:19.877 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-11 19:03:19.885 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-11 19:03:20.218 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-11 19:03:20.431 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-11 19:03:21.988 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-11 19:04:27.334 [main] mystorev1 - Url Open
+[INFO ] 2025-07-11 19:04:27.348 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-11 19:04:28.625 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-11 19:04:28.628 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-11 19:04:28.764 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-11 19:04:28.892 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-11 19:04:30.231 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-11 19:08:02.615 [main] mystorev1 - Url Open
+[INFO ] 2025-07-11 19:08:02.633 [main] mystorev1 - *************TestCase product search***********************
+[INFO ] 2025-07-11 19:08:04.093 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-11 19:08:04.098 [main] mystorev1 - Entered Email Id
+[INFO ] 2025-07-11 19:08:04.269 [main] mystorev1 - Entered Password
+[INFO ] 2025-07-11 19:08:04.393 [main] mystorev1 - Click on Login Button
+[INFO ] 2025-07-11 19:08:05.893 [main] mystorev1 - Login Successfull
+[INFO ] 2025-07-11 19:13:22.285 [main] mystorev1 - Url Open
+[INFO ] 2025-07-11 19:13:23.621 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-11 19:13:23.889 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-11 19:13:23.893 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-11 19:13:26.668 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2025-07-11 19:14:04.928 [main] mystorev1 - Url Open
+[INFO ] 2025-07-11 19:14:06.313 [main] mystorev1 - Click on sign in
+[INFO ] 2025-07-11 19:14:06.562 [main] mystorev1 - Enter enter and click on create account
+[INFO ] 2025-07-11 19:14:06.565 [main] mystorev1 - Enter user details for registration
+[INFO ] 2025-07-11 19:14:15.699 [main] mystorev1 - Checking the expected username with actual
+[INFO ] 2025-07-11 19:14:15.739 [main] mystorev1 - Register Account successfully

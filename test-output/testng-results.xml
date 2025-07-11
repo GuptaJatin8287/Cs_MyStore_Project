@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-06T17:51:25 IST" name="Default suite" finished-at="2025-07-06T17:51:47 IST" duration-ms="22368">
+  <suite started-at="2025-07-11T19:13:57 IST" name="Suite" finished-at="2025-07-11T19:14:16 IST" duration-ms="18286">
     <groups>
     </groups>
-    <test started-at="2025-07-06T17:51:25 IST" name="Default test" finished-at="2025-07-06T17:51:47 IST" duration-ms="22368">
-      <class name="com.mystore.testcases.TC_Product_Page_Test">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.mystore.testcases.TC_Product_Page_Test@5bf0d49]" started-at="2025-07-06T17:51:25 IST" name="Setup" finished-at="2025-07-06T17:51:31 IST" duration-ms="6156" status="PASS">
+    <test started-at="2025-07-11T19:13:57 IST" name="Test" finished-at="2025-07-11T19:14:16 IST" duration-ms="18286">
+      <class name="com.mystore.testcases.TC_My_Account_Page_Test">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.mystore.testcases.TC_My_Account_Page_Test@5b7a5baa]" started-at="2025-07-11T19:13:58 IST" name="Setup" finished-at="2025-07-11T19:14:04 IST" duration-ms="6864" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="buyproduct()[pri:0, instance:com.mystore.testcases.TC_Product_Page_Test@5bf0d49]" started-at="2025-07-06T17:51:31 IST" name="buyproduct" finished-at="2025-07-06T17:51:47 IST" duration-ms="15823" status="PASS">
+        <test-method signature="verifyandRegistration()[pri:1, instance:com.mystore.testcases.TC_My_Account_Page_Test@5b7a5baa]" started-at="2025-07-11T19:14:04 IST" name="verifyandRegistration" finished-at="2025-07-11T19:14:15 IST" duration-ms="10811" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- buyproduct -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.mystore.testcases.TC_Product_Page_Test@5bf0d49]" started-at="2025-07-06T17:51:47 IST" name="quit" finished-at="2025-07-06T17:51:47 IST" duration-ms="351" status="PASS">
+        </test-method> <!-- verifyandRegistration -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.mystore.testcases.TC_My_Account_Page_Test@5b7a5baa]" started-at="2025-07-11T19:14:15 IST" name="quit" finished-at="2025-07-11T19:14:16 IST" duration-ms="316" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-      </class> <!-- com.mystore.testcases.TC_Product_Page_Test -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.mystore.testcases.TC_My_Account_Page_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
