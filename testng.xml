@@ -6,7 +6,11 @@
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
+<<<<<<< HEAD
       <class name="com.mystore.testcases.TC_My_Account_Page_Test"/>
+=======
+      <class name="com.mystore.testcases.TC_Product_Page_Test"/>
+>>>>>>> 006bef176d70613ebf485a472a8883db67c2187e
       
     </classes>
   </test> <!-- Test -->
